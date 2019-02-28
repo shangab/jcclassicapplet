@@ -1,0 +1,10 @@
+//Test script for Applet 'JCClassicApplet'
+
+powerup;
+// Select JCClassicApplet //aid/35E2898A4F/C933F1
+0x00 0xA4 0x04 0x00 0X08 0X35 0XE2 0X89 0X8A 0X4F 0XC9 0X33 0XF2 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;
